@@ -1,6 +1,13 @@
 <p align="center">
   <img src='https://user-images.githubusercontent.com/113435724/230991227-5e5c1027-fd98-4a5c-8d86-16b2a3f0907e.gif' alt='PRE-RELISE'  width=70% > 
-</p> 
+</p>
+
+<a target="_blank" href="https://medium.com/@michael_47027">
+  <picture >
+   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788690-cbc1327f-7bc9-40ff-b6c5-fbf78182593b.png">
+   <img alt="Medium Link" width='19.5%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/medium.png">
+  </picture>
+</a>
 
 [<img src='https://user-images.githubusercontent.com/113435724/230788690-cbc1327f-7bc9-40ff-b6c5-fbf78182593b.png' alt='medium'  width='19.5%'>](https://medium.com/@michael_47027)
 [<img src='https://user-images.githubusercontent.com/113435724/230788691-74ac3bf2-b5ad-424c-86a9-f4dad5a0c76b.png' alt='telegram'  width='19.5%'>](https://t.me/michaels2023)
