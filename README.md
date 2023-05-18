@@ -17,7 +17,7 @@
 
 #
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/231172135-5a9a2bfe-85db-4966-a7eb-912115e8bd50.png"><img alt="Tech Stack" width='10%' align="left" src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/stack.png"></picture>]()
-**Our Tech Stack**
+**Our Tech Stack**<br /> 
 `Infrastructure as code:` **Terraform, Ansible**  
 `Backend:` **Go, Python, Node.JS, JAVA**  
 `Front-end:` **HTML5, CSS, JAVASCRIPT, REACT, VueJS**  
