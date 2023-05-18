@@ -34,12 +34,13 @@
 #
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230994953-694dfa78-734a-4b52-b3d9-da987e1765de.png"><img alt="Mainnet" width='45%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/mainnets.png"></picture>]()
 
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png"><img align="left" alt='axelar' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/axelar.png"></picture>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
 
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png"><img alt='cardano' width='20%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/cardano.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
 ___
-[<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/113435724/230994779-3decee31-18a3-458f-a1f6-7c412425da78.png"><img alt="Testnets" width='45%' src="https://raw.githubusercontent.com/Artur-Sg/svetek_readme/master/images/testnets.png"></picture>]()
-___
+
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1gjgvkdnjdm66d2jg7j278w5mmwrje0zwezq6u0)
 [<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/svetek)
 [<img src='https://user-images.githubusercontent.com/113435724/230788181-168c5efa-20f0-43a8-9c80-9575c52117e0.png' alt='haqq'  width='24.5%'>](https://haqq.explorers.guru/validator/haqqvaloper1vzqw946xv3lgsvdyw08pkgkqhuennjv48rqdev)
