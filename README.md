@@ -30,13 +30,13 @@
 [<img align="left"  src='https://user-images.githubusercontent.com/113435724/231004004-51e9a937-69fb-48f6-905b-50dd08af5e19.png' alt='web'  width='10%'>]()
 **Reliability and professionalism is our main priority. The value of a house lies in its location, the value of a mind lies in it’s depth, the value of words lies in their reliability. Crouton Digital is your reliable crypto partner. Our team is motivated by the desire to achieve, not by desire to beat others.**
 #
-[<img src='https://user-images.githubusercontent.com/113435724/230994953-694dfa78-734a-4b52-b3d9-da987e1765de.png' alt='mainnets'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230994953-694dfa78-734a-4b52-b3d9-da987e1765de.png' alt='mainnets'  width='99.5%'>](https://github.com/Svetek)
 ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://www.axelarscan.io/validator/axelarvaloper1vrp9yum9pkdc4dr0n8c47trtx8hwwq8j3wxn5e)
 
 
 
-[<img src='https://user-images.githubusercontent.com/113435724/230994779-3decee31-18a3-458f-a1f6-7c412425da78.png' alt='activetestnet'  width='99.5%'>](https://github.com/CroutonDigital)
+[<img src='https://user-images.githubusercontent.com/113435724/230994779-3decee31-18a3-458f-a1f6-7c412425da78.png' alt='activetestnet'  width='99.5%'>](https://github.com/Svetek)
 ___
 [<img src='https://user-images.githubusercontent.com/113435724/230788175-3ed49d27-f357-417d-9007-ed79ffb2c3a1.png' alt='axelar'  width='24.5%'>](https://testnet.axelarscan.io/validator/axelarvaloper1gjgvkdnjdm66d2jg7j278w5mmwrje0zwezq6u0)
 [<img src='https://user-images.githubusercontent.com/113435724/230788188-5cdbfade-af45-4ecc-8d3a-d83d16cc8369.png' alt='massa'  width='24.5%'>](https://github.com/svetek)
